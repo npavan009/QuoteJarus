@@ -1,0 +1,60 @@
+{
+	"quotes":[
+		{
+			"Id": "Q973504",
+			"Status": "Pending",
+			"Applicant": "James Feather LLC",
+			"QuoteDate": "14-07-2020",
+			"EffectiveDate": "20-07-2020",
+			"Package": [
+				{
+					"Name": "Basic",
+					"Value": "$680.00",
+					"IsSelected": "false"
+				},
+				{
+					"Name": "Preferred",
+					"Value": "$850.00",
+					"IsSelected": "false"
+				},
+				{
+					"Name": "Premier",
+					"Value": "$1050.00",
+					"IsSelected": "false"
+				}
+			],
+			"Persons": [
+				"1",
+				"2"
+			]
+		},
+		{
+			"Id": "Q973502",
+			"Status": "Pending",
+			"Applicant": "Ben Stokes LLC",
+			"QuoteDate": "14-07-2020",
+			"EffectiveDate": "20-07-2020",
+			"Package": [
+				{
+					"Name": "Basic",
+					"Value": "$680.00",
+					"IsSelected": "false"
+				},
+				{
+					"Name": "Preferred",
+					"Value": "$850.00",
+					"IsSelected": "false"
+				},
+				{
+					"Name": "Premier",
+					"Value": "$1050.00",
+					"IsSelected": "false"
+				}
+			],
+			"Persons": [
+				"5",
+				"6"
+			]
+		}
+	]
+}
